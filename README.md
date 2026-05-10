@@ -25,15 +25,6 @@ machine-learning-poisoning/
 ├── scripts/
 ├── results/
 └── images/
-
-## Results
-
-### Random Forest Confusion Matrix
-images/Screenshot 2026-05-10 231214.png
-
-### Model Comparison
-![Model Comparison](images/model_comparison.png)
-
 ## Technologies Used
 - Python
 - Pandas
