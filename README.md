@@ -29,7 +29,7 @@ machine-learning-poisoning/
 ## Results
 
 ### Random Forest Confusion Matrix
-![Confusion Matrix](images/confusion_matrix_rf.png)
+images/Screenshot 2026-05-10 231214.png
 
 ### Model Comparison
 ![Model Comparison](images/model_comparison.png)
